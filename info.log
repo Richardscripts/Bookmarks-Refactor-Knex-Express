@@ -1,0 +1,27 @@
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark id: 4 not Found","level":"error"}
+{"message":"Unauthorized request to path: /bookmark/","level":"error"}
+{"message":"bookmarkData is not defined","level":"error"}
+{"message":"Rating not found","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"knex.select is not a function","level":"error"}
+{"message":"db is not defined","level":"error"}
+{"message":"Unexpected token t in JSON at position 16","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Client_PG'\n    |     property 'valueForUndefined' -> object with constructor 'Raw'\n    --- property 'client' closes the circle","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Timeout'\n    |     property '_idlePrev' -> object with constructor 'TimersList'\n    --- property '_idleNext' closes the circle","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Client_PG'\n    |     property 'valueForUndefined' -> object with constructor 'Raw'\n    --- property 'client' closes the circle","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Client_PG'\n    |     property 'valueForUndefined' -> object with constructor 'Raw'\n    --- property 'client' closes the circle","level":"error"}
+{"message":"db is not defined","level":"error"}
+{"message":"Bookmark id: 4 not Found","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Cannot read property 'select' of undefined","level":"error"}
